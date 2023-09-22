@@ -12,7 +12,6 @@ import 'dart:convert';
 import 'package:saheed_ulti_task_manager/load_task.dart';
 
 
-//this saves tasks
 void saveTasks(List<Map<String, dynamic>> tasks) {
   final File file = File(taskFilePath);
   final jsonData = jsonEncode(tasks);
