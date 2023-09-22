@@ -1,0 +1,15 @@
+Greetings!
+Thank you for taking a moment to explore --SAHEED's ULTIMATE TASK MANAGER-- application.
+
+To get started with this application,
+FOLLOW THESE STEPS:
+--Open your terminal.
+--Copy the file path of the main.dart file, which can be found in the "bin" folder.
+--Run the following command in your console, replacing [file path] with the path you copied:
+    dart run [file path]
+    For example: dart run C:\Users\USER\Desktop\Dart_Apps\saheed_ulti_task_manager\bin\main.dart
+
+--For more detailed information on accepted input and available commands,
+  please refer to the user manual or access the help command within the console application menu.
+
+Cheers!
